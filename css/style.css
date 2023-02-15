@@ -1516,7 +1516,7 @@ background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #ebe
 	padding-top: 30px;
 }
 
-.blog-metas .blog-meta {
+ .blog-meta {
 	display: inline-block;
 	position: relative;
 	font-size: 13px;
@@ -1567,7 +1567,7 @@ background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #ebe
 	transform: translateY(-6px);
 } */ 
 
- .blog-metas:active .blog-meta a{
+ .blog-meta a:active {
 	transform: translateY(-2px);
 } 
 
